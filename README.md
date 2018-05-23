@@ -1,0 +1,2 @@
+# startupious
+first android app
